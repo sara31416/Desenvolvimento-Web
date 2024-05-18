@@ -3,7 +3,7 @@
     <p> adiciona um paragrafo, <button> adiciona botão, <title> adiciona um titulo, <img> adiciona imagem, <div> cria blocos para agrupar elementos.
 
 ### 2 - Descreva as diferenças e responsabilidades entre HTML e CSS?
-    html cria a estrutura, css é usado para estilizar a estrutura criada com html
+    html é usado para criar a estrutura, css é usado para estilizar a estrutura criada com html
 
 ### 3 - Qual a TAG usada para separar o CSS de um arquivo HTML?
     <style>
